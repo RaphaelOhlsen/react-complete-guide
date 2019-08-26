@@ -2,10 +2,10 @@
   text-align: center;
 }
 
-.hide {
-  display: none;
+.red {
+  color: red;
 }
 
-li {
-  list-style: none;
+.bold {
+  font-weight: 700;
 }
